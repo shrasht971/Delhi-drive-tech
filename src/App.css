@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap');
+
+.navbar-bg {
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+  }
+ .p{
+  /* font-family: 'Lucida Handwriting', cursive;
+  font-size: 4rem; /* Adjust the size as needed */
+  /* background: linear-gradient(90deg, #d3d6db, #3a4750);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; */ 
+  font-family: 'Lucida Handwriting', cursive;
+  font-size: 4rem; /* Adjust the size as needed */
+  color: #ccc; /* Light gray text color */
+  mix-blend-mode: difference; /* Blend mode for shadow effect */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Shadow effect */
+  padding: 10px; /* Optional: Add padding for spacing */
+  border-radius: 10px; /* Optional: Rounded corners */
+  display: inline-block; /* Display inline with block */
+  font-size:40px;
+ }
+ 
+
+  
