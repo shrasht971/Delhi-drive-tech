@@ -64,38 +64,38 @@ const Navbar = () => {
                 alt="Workflow"
               />
             </div>
-            <div class='bg-black border-gray-400 shadow-lg shadow-slate-500/50 p  mt-1 mr-3   font-mono text-3xl flex items-center justify-center font-extrabold w-[31vw] '>
+            <div class='bg-black border-gray-400 shadow-lg shadow-slate-500/50 p  mt-1 mr-3   font-mono text-3xl flex items-center justify-center font-extrabold w-[31vw]   '>
                  Delhi Drive Tech
             </div>
             <div className="hidden sm:block sm:ml-6">
               <div className="flex space-x-4 ">
                 <Link
                   to="/"
-                  className="text-gray-300 hover:bg-gray-700 hover:text-white px-16 ml-12 py-2 mt-2 rounded-md text-sm font-medium"
+                  className="text-gray-300 hover:bg-gray-700 hover:text-white px-14 ml-12 py-2 mt-2 rounded-md text-md font-bold"
                 >
                   Home
                 </Link>
                 <Link
                   to="/about"
-                  className="text-gray-300 hover:bg-gray-700 hover:text-white px-16 mx-36 py-2 mt-2 rounded-md text-sm font-medium"
+                  className="text-gray-300 hover:bg-gray-700 hover:text-white px-14 mx-36 py-2 mt-2 rounded-md text-md font-bold"
                 >
                   About
                 </Link>
                 <Link
                   to="/services"
-                  className="text-gray-300 hover:bg-gray-700 hover:text-white px-16 mx-40 py-2 mt-2 rounded-md text-sm font-medium"
+                  className="text-gray-300 hover:bg-gray-700 hover:text-white px-14 mx-40 py-2 mt-2 rounded-md text-md font-bold"
                 >
                   Services
                 </Link>
                 <Link
                   to="/contact"
-                  className="text-gray-300 hover:bg-gray-700 hover:text-white pl-16 pr-16  ml-40 py-2 mt-2 rounded-md text-sm font-medium"
+                  className="text-gray-300 hover:bg-gray-700 hover:text-white pl-14 pr-16  ml-40 py-2 mt-2 rounded-md text-md font-bold"
                 >
                   Contact
                 </Link>
                 <Link to="/booking" className=' '>
                 {/* <button  className="text-gray-300 shadow-md shadow-slate-500/50 bg-yellow-600 hover:bg-gray-700 hover:text-blue-800 px-6 py-2 mx-36 rounded-md text-sm font-medium">Sign/Sign Up</button> */}
-                <button  className="text-gray-300 shadow-md shadow-slate-500/50 bg-yellow-600 hover:bg-gray-700 hover:text-blue-800 px-8 py-2 mt-2 rounded-md text-sm font-medium">Booking</button>
+                <button  className="text-gray-300 shadow-md shadow-slate-500/50 bg-yellow-600 hover:bg-gray-700 hover:text-blue-800 px-4 py-2 mt-2 rounded-md text-md font-bold">Get in touch</button>
                </Link>
               </div>
             </div>
